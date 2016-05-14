@@ -9,6 +9,11 @@ body {
     height: 90%;
 }
 
+.logo {
+    margin:5px ;
+}
+
+
 .custom_nav {
         background:rgba(255,255,0,.85);
         color: yellow;
