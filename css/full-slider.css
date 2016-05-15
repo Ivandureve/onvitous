@@ -16,7 +16,7 @@ body {
 
 
 .custom_nav {
-        background:rgba(255,255,255,.9);
+        background:rgba(255,255,255,1);
     }
     
 
@@ -26,6 +26,9 @@ body {
     height: 100%;
 }
 
+.spacer {
+    margin: 20px;
+}
 
 .carousel-inner {
     height: 100%;
@@ -46,6 +49,6 @@ body {
 
 
 footer {
-    margin: 50px 0;
+    margin: 15px 0;
 }
 
