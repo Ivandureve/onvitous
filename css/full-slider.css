@@ -61,8 +61,25 @@ body {
     text-align:center;
 }
 
+.pp {
+    height: 150px;
+    border-radius: 100%;
+    border: 2px solid black;
+}
+
+.pp:hover {
+    opacity: 0.8;
+}
+
+#intro {
+    margin-left: 0;
+}
 
 footer {
     margin: 15px 0;
+}
+
+#instagram {
+    margin-top: 50px;
 }
 
